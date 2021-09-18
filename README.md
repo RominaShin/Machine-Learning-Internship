@@ -3,6 +3,9 @@
 <h3>This internship program at rahnema college is going to be a 2 months process in which we'll get fundamentals in machine learning and finally release a project with supervision of rahnema's former interns.</h3>
 
 <br>
+Entrance Task is here: <a href='https://github.com/RominaShin/Machine-Learning-Internship/blob/main/rahnema.ipynb'>Entrance Task</a>
+
+<br>
 
 As a final project, I've developed a system to detect crawlers and intrusion with an unsupervised approach to anomaly detection.
 This project was based on Sanjagh's server access log.
